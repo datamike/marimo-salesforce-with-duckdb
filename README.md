@@ -19,7 +19,7 @@ Note:  There is no need to install Marimo locally. The makefile uses a venv comm
    
    make setup-python
 
-4. After the above command completes, run"
+4. After the above command completes, run:
 
     make run-marimo
 
@@ -31,6 +31,7 @@ That's it!  Marimo should then be running on your local environment.
 
 #References:
 
-[https://www.salesforceben.com/](https://www.salesforceben.com/how-to-identify-unused-salesforce-fields-with-python-a-step-by-step-guide/)
+[https://www.salesforceben.com/ - How to identify Unused Salesforce Fields With Python](https://www.salesforceben.com/how-to-identify-unused-salesforce-fields-with-python-a-step-by-step-guide/)
 
    
+
