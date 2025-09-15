@@ -2,7 +2,7 @@
 
 # venv activate path different for Windows and Unix/Linux environments
 #  Windows: source virtual_folder_path/Scripts/activate
-#  *nix:    source/bin/activate
+#  *nix:    source virtual_folder_path/bin/activate
 
 setup-python:
 	python -m venv venv_marimo_salesforce && \
